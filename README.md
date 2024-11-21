@@ -1,4 +1,4 @@
-# Raj Fashion - eCommerce Website
+# FashionHUB - eCommerce Website
 ![rajpfp](https://github.com/user-attachments/assets/ff835bc3-4cc2-4678-b593-2e14977aef67)
 
 
